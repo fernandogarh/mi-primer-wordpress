@@ -1,3 +1,3 @@
 # mi-primer-wordpress
 wordpress
-test
+test2
