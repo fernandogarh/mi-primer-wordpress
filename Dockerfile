@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-LABEL MAINTAINER="Jorge Coll <jorge_coll@hotmail.com>"
+LABEL MAINTAINER="Fernando"
 ENV DEBIAN_FRONTEND=noninteractive 
 RUN apt-get update && \
         apt-get install -y curl php libapache2-mod-php  php-mysql php-gd && \
